@@ -6,10 +6,10 @@ a. What is an issue?
 
 b. What is a pull request?
 
-
 A pull request is a request to push the changes you've made in your assignment branch to the main (master) branch.  
 
 c. How do I open up a pull request?
+
 
 
 
