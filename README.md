@@ -28,8 +28,11 @@ GitHub is a website that stores and tracks (hosting repository) changes to codin
 f. What does git diff do?
 
 
+
 g. What is the main branch?
 
 The main branch is your production branch where you keep the most steady state code and the most approved versions of your code for each file. 
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+No, you should be creating another branch and make changes to that other branch instead of main. This will allow you to work and update the project on the 'assignment' branch and lets you test your code and once it is tested and verified to do what you intended it to do, you can push your code to the main. 
