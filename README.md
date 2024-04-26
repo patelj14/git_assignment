@@ -27,6 +27,8 @@ GitHub is a website that stores and tracks (hosting repository) changes to codin
 
 f. What does git diff do?
 
+Once you have staged a file (git add), right before git commit and git push; If you decide to make additional changes to the file that has been staged, you can do so and safe the file. Now if you want to see the difference between what has been staged vs the changes you have made to that same file, you can run git diff. git diff will show you the difference between the files and a) is the old version of the file and b) is the new version of the file (not yet staged).
+
 g. What is the main branch?
 
 The main branch is your production branch where you keep the most steady state code and the most approved versions of your code for each file. 
@@ -34,7 +36,3 @@ The main branch is your production branch where you keep the most steady state c
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
 No, you should be creating another branch and make changes to that other branch instead of main. This will allow you to work and update the project on the 'assignment' branch and lets you test your code and once it is tested and verified to do what you intended it to do, you can push your code to the main. 
-
-
-
-
