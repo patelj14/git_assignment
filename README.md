@@ -27,8 +27,6 @@ GitHub is a website that stores and tracks (hosting repository) changes to codin
 
 f. What does git diff do?
 
-
-
 g. What is the main branch?
 
 The main branch is your production branch where you keep the most steady state code and the most approved versions of your code for each file. 
